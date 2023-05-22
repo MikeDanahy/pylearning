@@ -19,4 +19,15 @@ print(type(x))
 print(type(y),"\n\n")
 
 x, y, z = "Orange", "Banana", "Cherry"
-print(x," ",y," ",z)
+print(x," ",y," ",z,"\n")
+x = y = z = "Orange"
+print(x)
+print(y)
+print(z,"\n")
+
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+
