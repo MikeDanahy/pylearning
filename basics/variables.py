@@ -16,5 +16,7 @@ print(z,"\n\n")
 x = 5
 y = "John"
 print(type(x))
-print(type(y,"\n\n"))
+print(type(y),"\n\n")
 
+x, y, z = "Orange", "Banana", "Cherry"
+print(x," ",y," ",z)
