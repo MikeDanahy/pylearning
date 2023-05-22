@@ -1,1 +1,2 @@
 Notes for basic commands
+comments.txt: this is a compilation of different ways to add one commet line and multiple lines
