@@ -1,4 +1,4 @@
 Notes for basic commands
 comments.txt: this is a compilation of different ways to add one commet line and multiple lines
 
-variables.py: Assignment, type casting, double quotes and printing of data type:
+variables.py: tesst1 Assignment, type casting, double quotes and printing of data type:
